@@ -1,0 +1,9 @@
+name: PFMCore
+version: '${project.version}'
+main: me.feusalamander.PFM
+api-version: 1.13
+load: STARTUP
+authors: [ FeuSalamander ]
+description: The Main Plugin of the PFM project
+loadbefore:
+  - Decigames
